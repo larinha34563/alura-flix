@@ -1,5 +1,16 @@
 body{
-    background-color: rgb(237, 198, 222);
+    background-color: rgb(76, 73, 239);
     color: rgb(129, 169, 220);
      font-family: "Caveat", cursive;
+     margin: 0px;
+}
+header{
+    font-size: 80px;
+    border:  inset border. 5px color(srgb rgb(70, 107, 255) );
+}
+h1{
+    font-size: 35px;
+}
+p{
+    font-size: 34px;
 }
