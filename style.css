@@ -6,6 +6,7 @@ body{
 }
 header{
     font-size: 80px;
+    text-align: center;
     border:  inset border. 5px color(srgb rgb(70, 107, 255) );
 }
 h1{
