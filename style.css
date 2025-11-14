@@ -15,3 +15,12 @@ h1{
 p{
     font-size: 34px;
 }
+
+section{
+background-color: rgb(0, 0, 77);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
